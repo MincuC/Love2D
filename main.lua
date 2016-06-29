@@ -1,4 +1,4 @@
-function love.load()
+function love.load() //DANKMEMES420BURAIZEIT KONO OKAMA YAROOO
 	x=20
 	y=20
 	vx=0
